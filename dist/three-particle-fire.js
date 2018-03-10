@@ -136,7 +136,7 @@
 			});
 
 			this.color = new THREE.Color(0xff2200);
-			this.size = 0.8;
+			this.size = 0.1;
 			this.setValues(parameters);
 
 			this.uniforms.color.value = this.color;
